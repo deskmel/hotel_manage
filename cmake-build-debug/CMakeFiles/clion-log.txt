@@ -1,0 +1,38 @@
+C:\Users\asus\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.5087.36\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\asus\Desktop\2018Summer\VG101\最新\hotel_1
+-- The C compiler identification is GNU 8.1.0
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe -- broken
+CMake Error at C:/Users/asus/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/181.5087.36/bin/cmake/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake:52 (message):
+  The C compiler
+
+    "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/asus/Desktop/2018Summer/VG101/鏈�鏂�/hotel_1/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command:"C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe" "cmTC_1fc43/fast"
+    C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_1fc43.dir\build.make CMakeFiles/cmTC_1fc43.dir/build
+    mingw32-make.exe[1]: Entering directory 'C:/Users/asus/Desktop/2018Summer/VG101/鏈�鏂�/hotel_1/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Building C object CMakeFiles/cmTC_1fc43.dir/testCCompiler.c.obj
+    C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_1fc43.dir\testCCompiler.c.obj   -c C:\Users\asus\Desktop\2018Summer\VG101\閺堚偓閺傜櫒hotel_1\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+    gcc.exe: error: C:\Users\asus\Desktop\2018Summer\VG101\閺堚偓閺傜櫒hotel_1\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+    gcc.exe: fatal error: no input files
+    compilation terminated.
+    mingw32-make.exe[1]: *** [CMakeFiles\cmTC_1fc43.dir\build.make:65: CMakeFiles/cmTC_1fc43.dir/testCCompiler.c.obj] Error 1
+    mingw32-make.exe[1]: Leaving directory 'C:/Users/asus/Desktop/2018Summer/VG101/鏈�鏂�/hotel_1/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe: *** [Makefile:125: cmTC_1fc43/fast] Error 2
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/asus/Desktop/2018Summer/VG101/鏈�鏂�/hotel_1/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/asus/Desktop/2018Summer/VG101/鏈�鏂�/hotel_1/cmake-build-debug/CMakeFiles/CMakeError.log".

@@ -1,0 +1,573 @@
+[room 001]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 101]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 201]
+type=dorm
+vacant=3
+arrival=01/03/2011
+vistors=3
+name1=sad
+id1=asd
+name2=asdad
+id2=afqwe
+name3=123
+id3=12341
+keys=2
+breakfast=3
+night=4
+price=033
+[room 301]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 401]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 501]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 601]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 701]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 801]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 901]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 011]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 111]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 211]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 311]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 411]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 511]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 611]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 711]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 811]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 911]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 021]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 002]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 102]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 202]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 302]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 402]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 502]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 602]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 702]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 802]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 902]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 012]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 112]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 212]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 312]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 412]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 512]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 612]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 712]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 812]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 912]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 022]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 003]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 103]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 203]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 303]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 403]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 503]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 603]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 703]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 803]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 903]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 013]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 113]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 213]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 313]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 413]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 513]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 613]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 713]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 813]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 913]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
+[room 023]
+type=dorm
+vacant=0
+arrival=01/01/1999
+vistors=0
+keys=2
+breakfast=0
+night=1
+price=0
